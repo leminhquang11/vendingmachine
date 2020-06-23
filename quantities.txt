@@ -1,0 +1,12 @@
+20  Coke
+
+0  Fanta
+
+20  Sprite
+
+20  DrPepper
+
+5  Dasani
+
+20  Schwepps
+
